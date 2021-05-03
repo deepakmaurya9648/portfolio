@@ -18,8 +18,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "2ca73286ddca1b039673b75efe561b62",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"index.html": "96025430a0a8abbad6757ccb5a405878",
-"/": "96025430a0a8abbad6757ccb5a405878",
+"index.html": "04c1005f8b03e5618c43fce8b38fa9d1",
+"/": "04c1005f8b03e5618c43fce8b38fa9d1",
 "main.dart.js": "28633bd5777328e7f74c2c0f9f7830f9",
 "manifest.json": "3421cd00e17d6f742428a18cbf45709d",
 "version.json": "1cefaf2a48f42633ff4b37ffe0e9de96"
